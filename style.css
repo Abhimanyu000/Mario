@@ -1,0 +1,39 @@
+.m{
+    width: 100%;
+}
+
+.m h3{
+    display: inline;
+}
+
+.m button{
+    float: right;
+    border-color: black;
+}
+
+#b, #stat {
+    font-size: large;
+}
+
+.foot{
+    margin: 0px;
+    width: 100%;
+    background-color: aqua;
+    line-height: 2;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.w{
+    width: 45%;
+    display: inline-block;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
